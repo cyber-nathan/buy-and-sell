@@ -1,0 +1,7 @@
+.cardWrapper {
+  background-color: white;
+}
+
+.cardWrapper:hover {
+  background-color: rgb(225 225 225 / 1);
+}
